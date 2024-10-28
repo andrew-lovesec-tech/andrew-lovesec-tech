@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @andrew-lovesec-tech
 - 👀 I’m interested in Cybersecurity
-- 🌱 I’m currently learning HTML + CSS
+- 🌱 I’m currently learning HTML + CSS + Node.js
 - 📫 How to reach me andrew@lovesec.tech
 
 <!---
